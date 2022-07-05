@@ -6,7 +6,7 @@
 
 This is a recreation of the classic "Snake" game. Using HTML, CSS, and JavaScript, I was able to bring this classic game back to life with a few simple touch ups on sounds and effects.
 
-[PLAY GAME!]()
+[PLAY GAME!](http://www.alexjbustillos.com/MyRetroSnake/)
 
 ## Rules
 
